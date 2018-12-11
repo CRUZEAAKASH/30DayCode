@@ -1,5 +1,6 @@
+import java.util.Scanner;
 
-public class Day_3_IntroToConditionalStatements {
+public class Day3_IntroToConditionalStatements {
 private static final Scanner scanner = new Scanner(System.in);
     
     public static void main(String[] args) {
